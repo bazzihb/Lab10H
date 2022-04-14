@@ -46,4 +46,4 @@ testDuplicates();
         int[] result = new SelectionSort() .basicSelectionSort(arr);
         assertArrayEquals(Sortedarr, result);
     }
-    
+  }
